@@ -18,3 +18,4 @@ To build the API jar:
 ```bash
 ./gradlew clean build
 ```
+**Note:** *All the details are explained in the comment notes within the classes.*
